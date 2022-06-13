@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jumbotron renders the Jumbotron with populated data 1`] = `
+<div
+  class="jumbotron__Container-sc-1uyz1rt-6 dQlaYv"
+>
+  <div
+    class="jumbotron__Item-sc-1uyz1rt-5 NLOtm"
+  >
+    <div
+      class="jumbotron__Inner-sc-1uyz1rt-0 eeFhkN"
+    >
+      <div
+        class="jumbotron__Pane-sc-1uyz1rt-1 dXcFDe"
+      >
+        <h1
+          class="jumbotron__Title-sc-1uyz1rt-2 dUzESX"
+        >
+          Enjoy on your TV.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-1uyz1rt-3 coWZXY"
+        >
+          Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-1uyz1rt-1 dXcFDe"
+      >
+        <img
+          alt="Tiger King on MovieFlix"
+          class="jumbotron__Image-sc-1uyz1rt-4 gIltUw"
+          data-testid="1-jumbo-image"
+          src="/images/misc/home-tv.jpg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="jumbotron__Item-sc-1uyz1rt-5 NLOtm"
+  >
+    <div
+      class="jumbotron__Inner-sc-1uyz1rt-0 eeFhkN"
+    >
+      <div
+        class="jumbotron__Pane-sc-1uyz1rt-1 dXcFDe"
+      >
+        <h1
+          class="jumbotron__Title-sc-1uyz1rt-2 dUzESX"
+        >
+          Download your programmes to watch on the go.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-1uyz1rt-3 coWZXY"
+        >
+          Save your data and watch all your favourites offline.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-1uyz1rt-1 dXcFDe"
+      >
+        <img
+          alt="Watch on mobile"
+          class="jumbotron__Image-sc-1uyz1rt-4 gIltUw"
+          data-testid="2-jumbo-image"
+          src="/images/misc/home-mobile.jpg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="jumbotron__Item-sc-1uyz1rt-5 NLOtm"
+  >
+    <div
+      class="jumbotron__Inner-sc-1uyz1rt-0 eeFhkN"
+    >
+      <div
+        class="jumbotron__Pane-sc-1uyz1rt-1 dXcFDe"
+      >
+        <h1
+          class="jumbotron__Title-sc-1uyz1rt-2 dUzESX"
+        >
+          Watch everywhere.
+        </h1>
+        <h2
+          class="jumbotron__SubTitle-sc-1uyz1rt-3 coWZXY"
+        >
+          Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.
+        </h2>
+      </div>
+      <div
+        class="jumbotron__Pane-sc-1uyz1rt-1 dXcFDe"
+      >
+        <img
+          alt="Money Heist on MovieFlix"
+          class="jumbotron__Image-sc-1uyz1rt-4 gIltUw"
+          data-testid="3-jumbo-image"
+          src="/images/misc/home-imac.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

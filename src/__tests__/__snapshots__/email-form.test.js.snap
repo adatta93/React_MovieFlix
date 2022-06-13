@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmailForm renders EmailForm with data 1`] = `
+<div
+  class="email-form__Container-sc-8ptut6-0 hgjXBI"
+>
+  <input
+    class="email-form__Input-sc-8ptut6-1 jopcne"
+    placeholder="Email address"
+  />
+  <button
+    class="email-form__Button-sc-8ptut6-3 kYQxro"
+  >
+    Try it now
+     
+    <img
+      alt="Try Now"
+      src="/images/icons/chevron-right.png"
+    />
+  </button>
+  <div
+    class="email-form__Break-sc-8ptut6-2 lfyfWu"
+  />
+  <h3
+    class="email-form__Text-sc-8ptut6-4 kznhPx"
+  >
+    Ready to watch? Enter your email to create or restart your membership.
+  </h3>
+</div>
+`;

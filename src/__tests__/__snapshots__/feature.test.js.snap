@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feature renders Feature component 1`] = `
+<div
+  class="feature__Container-tpwo5a-0 bfEftF"
+>
+  <h1
+    class="feature__Title-tpwo5a-1 iUdAhK"
+  >
+    Unlimited films, TV programmes and more.
+  </h1>
+  <h2
+    class="feature__SubTitle-tpwo5a-2 edwfFy"
+  >
+    Watch anywhere. Cancel at any time.
+  </h2>
+</div>
+`;

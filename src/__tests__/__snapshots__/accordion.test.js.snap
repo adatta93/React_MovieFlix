@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion renders Accordion component with populated data 1`] = `
+<div
+  class="accordion__Inner-sc-1wyxntn-1 dMjIbL"
+>
+  <h1
+    class="accordion__Title-sc-1wyxntn-2 bQmdFZ"
+  >
+    Frequently Asked Questions
+  </h1>
+  <div
+    class="accordion__Item-sc-1wyxntn-3 eaiwW"
+  >
+    <div
+      class="accordion__Header-sc-1wyxntn-4 bZXLcX"
+    >
+      What is MovieFlix?
+      <img
+        alt="Open"
+        class="closed"
+        src="/images/icons/add.png"
+      />
+    </div>
+    <div
+      class="accordion__Body-sc-1wyxntn-5 jFnqOY closed"
+    >
+      <span>
+        MovieFlix is a streaming service that offers a wide variety of award-winning TV programmes, films, anime, documentaries and more – on thousands of internet-connected devices.
+
+You can watch as much as you want, whenever you want, without a single advert – all for one low monthly price. There's always something new to discover, and new TV programmes and films are added every week!
+      </span>
+    </div>
+  </div>
+  <div
+    class="accordion__Item-sc-1wyxntn-3 eaiwW"
+  >
+    <div
+      class="accordion__Header-sc-1wyxntn-4 bZXLcX"
+    >
+      How much does MovieFlix cost?
+      <img
+        alt="Open"
+        class="closed"
+        src="/images/icons/add.png"
+      />
+    </div>
+    <div
+      class="accordion__Body-sc-1wyxntn-5 jFnqOY closed"
+    >
+      <span>
+        Watch MovieFlix on your smartphone, tablet, smart TV, laptop or streaming device, all for one low fixed monthly fee. Plans start from £5.99 a month. No extra costs or contracts.
+      </span>
+    </div>
+  </div>
+  <div
+    class="accordion__Item-sc-1wyxntn-3 eaiwW"
+  >
+    <div
+      class="accordion__Header-sc-1wyxntn-4 bZXLcX"
+    >
+      Where can I watch?
+      <img
+        alt="Open"
+        class="closed"
+        src="/images/icons/add.png"
+      />
+    </div>
+    <div
+      class="accordion__Body-sc-1wyxntn-5 jFnqOY closed"
+    >
+      <span>
+        Watch anywhere, anytime, on an unlimited number of devices. Sign in with your MovieFlix account to watch instantly on the web at MovieFlix.com from your personal computer or on any internet-connected device that offers the MovieFlix app, including smart TVs, smartphones, tablets, streaming media players and game consoles.
+
+You can also download your favourite programmes with the iOS, Android, or Windows 10 app. Use downloads to watch while you're on the go and without an internet connection. Take MovieFlix with you anywhere.
+      </span>
+    </div>
+  </div>
+  <div
+    class="accordion__Item-sc-1wyxntn-3 eaiwW"
+  >
+    <div
+      class="accordion__Header-sc-1wyxntn-4 bZXLcX"
+    >
+      How do I cancel?
+      <img
+        alt="Open"
+        class="closed"
+        src="/images/icons/add.png"
+      />
+    </div>
+    <div
+      class="accordion__Body-sc-1wyxntn-5 jFnqOY closed"
+    >
+      <span>
+        MovieFlix is flexible. There are no annoying contracts and no commitments. You can easily cancel your account online in two clicks. There are no cancellation fees – start or stop your account at any time.
+      </span>
+    </div>
+  </div>
+  <div
+    class="accordion__Item-sc-1wyxntn-3 eaiwW"
+  >
+    <div
+      class="accordion__Header-sc-1wyxntn-4 bZXLcX"
+    >
+      What can I watch on MovieFlix?
+      <img
+        alt="Open"
+        class="closed"
+        src="/images/icons/add.png"
+      />
+    </div>
+    <div
+      class="accordion__Body-sc-1wyxntn-5 jFnqOY closed"
+    >
+      <span>
+        MovieFlix has an extensive library of feature films, documentaries, TV programmes, anime, award-winning MovieFlix originals, and more. Watch as much as you want, any time you want.
+      </span>
+    </div>
+  </div>
+</div>
+`;

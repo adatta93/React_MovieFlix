@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form renders Form with data 1`] = `
+<div
+  class="form__Container-vzo8om-0 dFdtSh"
+>
+  <h1
+    class="form__Title-vzo8om-3 eSCtRe"
+  >
+    Sign In Now
+  </h1>
+  <form
+    class="form__Base-vzo8om-1 iEbdAG"
+  >
+    <input
+      class="form__Input-vzo8om-7 hRVRyg"
+      placeholder="Email address"
+    />
+    <input
+      class="form__Input-vzo8om-7 hRVRyg"
+      placeholder="Password"
+      type="password"
+    />
+    <button
+      class="form__Submit-vzo8om-8 llwQJL"
+      disabled=""
+      type="submit"
+    >
+      Sign In
+    </button>
+  </form>
+  <p
+    class="form__Text-vzo8om-4 gtdTmb"
+  >
+    New to MovieFlix? 
+  </p>
+  <p
+    class="form__TextSmall-vzo8om-5 jECuoz"
+  >
+    This page is protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
+  </p>
+</div>
+`;
+
+exports[`Form renders the Form with an error 1`] = `
+<div
+  class="form__Container-vzo8om-0 dFdtSh"
+>
+  <div
+    class="form__Error-vzo8om-2 iha-DdI"
+  >
+    Your email address is already being used
+  </div>
+  <button
+    class="form__Submit-vzo8om-8 llwQJL"
+    type="submit"
+  >
+    Sign In
+  </button>
+</div>
+`;
